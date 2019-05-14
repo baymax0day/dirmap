@@ -331,8 +331,3 @@ dirmap在编写过程中，借鉴了大量的优秀开源项目的模式与思�
 - [BBscan](https://github.com/lijiejie/BBScan)
 - [werdy](https://github.com/derv82/werdy)
 
-# 联系作者
-
-mail: xxlin.ujs@qq.com
-
-![donate](doc/donate.jpg)
